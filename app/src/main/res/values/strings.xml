@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Counter Register</string>
+    <string name="rBtnUpLabel">Count Up</string>
+    <string name="rBtnDownLabel">Count Down</string>
+    <string name="btnCountLabel">Count</string>
+</resources>
